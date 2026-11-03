@@ -1,0 +1,18 @@
+{
+  "name": "@bastion-hub/screenshare",
+  "version": "1.0.0",
+  "description": "Pipeline de streaming et capture vidéo multi-sources jusqu'à 60 FPS avec adaptation dynamique de flux pour BASTION",
+  "main": "index.js",
+  "keywords": [
+    "bastion",
+    "screenshare",
+    "streaming",
+    "canvas",
+    "60fps",
+    "mediastream",
+    "webrtc"
+  ],
+  "author": "BASTION Core Team",
+  "license": "MIT"
+}
+
